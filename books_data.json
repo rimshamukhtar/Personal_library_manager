@@ -1,0 +1,30 @@
+[
+    {
+        "title": "The fault in our Stars",
+        "author": "Jhon Green",
+        "year": "2001",
+        "genre": "self learning",
+        "read": true
+    },
+    {
+        "title": "",
+        "author": "",
+        "year": "",
+        "genre": "",
+        "read": false
+    },
+    {
+        "title": "",
+        "author": "",
+        "year": "",
+        "genre": "",
+        "read": false
+    },
+    {
+        "title": "atomic habits",
+        "author": "james clear",
+        "year": "2001",
+        "genre": "motivational",
+        "read": true
+    }
+]
